@@ -12,3 +12,6 @@ Comandos Git vistos:
 - git checkout
 - git push
 - git pull
+- git branch
+- git fetch
+- git merge
